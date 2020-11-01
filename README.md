@@ -6,6 +6,10 @@ created with FreeCAD 3D parametric modeler.
 The case allows to mount a sensor module on a 4-pin 2.54mm pin header on
 its side.
 
+![TTGO T1 Case closed](https://github.com/agners/ttgo-t1-case/blob/master/case-closed.png?raw=true)
+
+![TTGO T1 Case open](https://github.com/agners/ttgo-t1-case/blob/master/case-open.png?raw=true)
+
 ## Known Caveats
 
 * Tight fit: The PCB fits rather tightly in the case
@@ -17,6 +21,7 @@ its side.
 ## Built With
 
 * [FreeCAD](https://www.freecadweb.org/)
+* [LiliGO TTGO-T1](https://github.com/LilyGO/ESP32-TTGO-T1)
 
 ## License
 
